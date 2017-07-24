@@ -1,0 +1,18 @@
+c:\users\win 8\documents\visual studio 2010\Projects\Arduino\Arduino\bin\Debug\Arduino.exe
+c:\users\win 8\documents\visual studio 2010\Projects\Arduino\Arduino\bin\Debug\Arduino.pdb
+c:\users\win 8\documents\visual studio 2010\Projects\Arduino\Arduino\obj\x86\Debug\Arduino.Form1.resources
+c:\users\win 8\documents\visual studio 2010\Projects\Arduino\Arduino\obj\x86\Debug\Arduino.Properties.Resources.resources
+c:\users\win 8\documents\visual studio 2010\Projects\Arduino\Arduino\obj\x86\Debug\Arduino.csproj.GenerateResource.Cache
+c:\users\win 8\documents\visual studio 2010\Projects\Arduino\Arduino\obj\x86\Debug\Arduino.exe
+c:\users\win 8\documents\visual studio 2010\Projects\Arduino\Arduino\obj\x86\Debug\Arduino.pdb
+C:\Users\Win 8\documents\visual studio 2010\Projects\Arduino\Arduino\obj\x86\Debug\Arduino.csprojResolveAssemblyReference.cache
+E:\Projects C#\Arduino\Arduino\obj\x86\Debug\Arduino.exe
+E:\Projects C#\Arduino\Arduino\obj\x86\Debug\Arduino.pdb
+C:\Users\Rogerio\Documents\Projects C#\Arduino\Arduino\obj\x86\Debug\Arduino.exe
+C:\Users\Rogerio\Documents\Projects C#\Arduino\Arduino\obj\x86\Debug\Arduino.pdb
+C:\Users\Rogerio\Documents\Projects C#\Arduino\Arduino\bin\Debug\Arduino.exe
+C:\Users\Rogerio\Documents\Projects C#\Arduino\Arduino\bin\Debug\Arduino.pdb
+C:\Users\Rogerio\Documents\Projects C#\Arduino\Arduino\obj\x86\Debug\Arduino.csprojResolveAssemblyReference.cache
+C:\Users\Rogerio\Documents\Projects C#\Arduino\Arduino\obj\x86\Debug\Arduino.Form1.resources
+C:\Users\Rogerio\Documents\Projects C#\Arduino\Arduino\obj\x86\Debug\Arduino.Properties.Resources.resources
+C:\Users\Rogerio\Documents\Projects C#\Arduino\Arduino\obj\x86\Debug\Arduino.csproj.GenerateResource.Cache
